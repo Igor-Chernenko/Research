@@ -1,4 +1,4 @@
-# Hashing Schemes Reaserch paper
+# Hashing Schemes Research Paper
 This a paper that explores and compares the performance of chaining vs open addressing with linear probing
 
 This was an assigment for the UVic class csc226, algorithms and data structures II
